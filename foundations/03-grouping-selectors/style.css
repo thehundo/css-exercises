@@ -1,0 +1,16 @@
+/* style.css */
+
+.button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.left {
+    background-color: rgb(15, 16, 15);
+    color: rgb(219, 226, 229);
+    font-weight: bold;
+}
+
+.right {
+    background-color: rgb(222, 222, 74);
+}

@@ -4,3 +4,16 @@
     background-color: #ffb6c1;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.font24 {
+    font-size: 24px;
+}
+
+#rowtwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#rowfour {
+    background-color: hsl(120, 78%, 70%);
+}
